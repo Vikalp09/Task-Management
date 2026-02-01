@@ -64,7 +64,7 @@ For detailed API documentation, please visit the [Postman documentation](https:/
 
 ## Contribution
 
-If you would like to contribute to the project, please fork it. I will send you the `gradle.properties` file. You can also reach out to me via email at navishsingh242892@gmail.com.
+If you would like to contribute to the project, please fork it. I will send you the `gradle.properties` file. You can also reach out to me via email at vikalpsinha5@gmail.com
 
 ## Getting Started
 
@@ -77,6 +77,6 @@ To get started with the project, follow these steps:
 
 By following the guidelines above, you will be able to set up and run the Task Management Application seamlessly. 
 
-For any issues or queries, feel free to contact me at navishsingh242892@gmail.com.
+For any issues or queries, feel free to contact me at vikalpsinha5@gmail.com
 
 ---
